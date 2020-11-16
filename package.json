@@ -1,0 +1,23 @@
+{
+  "name": "jquery-read-more",
+  "version": "0.1.0",
+  "description": "jQuery plugin for easy read more text animation",
+  "main": "jquery-read-more.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreF010203/jQuery-Read-More.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "read",
+    "read-more",
+    "read-less",
+    "jQuery",
+    "animation",
+    "text"
+  ],
+  "author": "Andrea Facchini",
+  "license": "MIT"
+}

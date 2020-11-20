@@ -28,7 +28,7 @@ You can find the minified file in the git repository.
 If you use a module syntax, you can import the plugin with
 
 ```js
-import './scripts/readMore';
+import 'jquery-read-more';
 ```
 
 If you import the file, the plugin will be loaded when the DOM is ready.

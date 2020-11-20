@@ -2,7 +2,7 @@
   "name": "jquery-read-more",
   "version": "0.1.1",
   "description": "jQuery plugin for easy read more text animation",
-  "main": "jquery-read-more.js",
+  "main": "jquery-read-more.min.js",
   "scripts": {},
   "repository": {
     "type": "git",
